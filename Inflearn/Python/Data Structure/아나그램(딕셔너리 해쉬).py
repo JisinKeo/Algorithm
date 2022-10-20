@@ -35,3 +35,31 @@ for i in str1.keys():
 else:
     print("YES")
         
+        
+        
+ '''
+ 더 좋은 코드로 리팩토링
+
+
+a = input()
+b = input()
+
+anagram = dict()
+
+for x in a:
+    anagram[x] = anagram.get(x, 0) + 1
+
+for x in b:
+    anagram[x] = anagram.get(x, 0) - 1
+
+for x in a:
+    if anagram[x] > 0:
+        print("NO")
+        break
+    
+              
+else:
+    print("YES")
+    
+     '''
+        
