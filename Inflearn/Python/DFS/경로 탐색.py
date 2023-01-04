@@ -2,10 +2,8 @@
 
 방향그래프가 주어지면 1번 정점에서 N번 정점으로 가는 모든 경로의 가지 수를 출력하는 프로그램을 작성하세요. 
 
-
 아래 그래프에서 1번 정점에서 5번 정점으로 가는 가지 수는 총 6 가지입니다.
 
-<img width="80%" src="https://github.com/JisinKeo/Algorithm/issues/1#issue-1518978867"/>
 1 2 3 4 5
 1 2 5
 1 3 4 2 5
@@ -22,9 +20,8 @@
 ▣ 출력설명
 
 총 가지 수를 출력한다.
-
 '''
-<img width="80%" src="https://github.com/JisinKeo/Algorithm/issues/1#issue-1518978867"/>
+
 def DFS(v):
 
     global cnt
