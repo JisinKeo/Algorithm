@@ -5,8 +5,7 @@
 
 아래 그래프에서 1번 정점에서 5번 정점으로 가는 가지 수는 총 6 가지입니다.
 
-![스크린샷 2023-01-04 오후 10 22 50](https://user-images.githubusercontent.com/97288251/210564712-bdab391b-acae-4e9d-8b2d-1de784135d34.png)
-
+https://github.com/JisinKeo/Algorithm/issues/1#issue-1518978867
 
 1 2 3 4 5
 1 2 5
